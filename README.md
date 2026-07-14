@@ -9,18 +9,18 @@
 
 ## 🚀 Características Principales
 
-* **Extracción de Metadatos:** Lee la cabecera del archivo para mostrar instantáneamente el nombre del proyecto, versión del esquema IFC, autor y fecha de exportación[cite: 8].
-* **Motor 3D de Alto Rendimiento:** Utiliza `pyvista` combinando las mallas en un `MultiBlock` para renderizar modelos fluidamente, mostrando la geometría en un acabado platino ("#d3d3d3") con las aristas remarcadas para un look BIM profesional[cite: 8].
-* **Interfaz Nativa Integrada:** Ventana construida con `PyQt5` que incrusta el visor interactivo (`QtInteractor`) directamente en la aplicación sin abrir ventanas secundarias[cite: 8].
-* **Herramientas de Visualización:** Permite alternar el color de fondo del espacio 3D (entre blanco y gris oscuro) para mejorar el contraste visual de los modelos[cite: 8].
-* **Captura Rápida:** Función nativa para tomar capturas de pantalla del modelo renderizado y guardarlas directamente en formato PNG[cite: 8].
+* **Extracción de Metadatos:** Lee la cabecera del archivo para mostrar instantáneamente el nombre del proyecto, versión del esquema IFC, autor y fecha de exportación.
+* **Motor 3D de Alto Rendimiento:** Utiliza `pyvista` combinando las mallas en un `MultiBlock` para renderizar modelos fluidamente, mostrando la geometría en un acabado platino ("#d3d3d3") con las aristas remarcadas para un look BIM profesional.
+* **Interfaz Nativa Integrada:** Ventana construida con `PyQt5` que incrusta el visor interactivo (`QtInteractor`) directamente en la aplicación sin abrir ventanas secundarias.
+* **Herramientas de Visualización:** Permite alternar el color de fondo del espacio 3D (entre blanco y gris oscuro) para mejorar el contraste visual de los modelos.
+* **Captura Rápida:** Función nativa para tomar capturas de pantalla del modelo renderizado y guardarlas directamente en formato PNG.
 
 ## 🛠️ Stack Tecnológico
 
-* **PyQt5:** Framework principal para la creación de la interfaz gráfica de usuario y gestión de eventos[cite: 8].
-* **PyVista & PyVistaQt:** Motor de renderizado 3D basado en VTK, altamente optimizado para análisis espacial e integración en interfaces Qt[cite: 8].
-* **IfcOpenShell:** Librería principal encargada de parsear el archivo IFC y convertir los elementos paramétricos en datos geométricos puros[cite: 8].
-* **NumPy:** Procesamiento rápido de matrices para reconstruir y adaptar los vértices y caras a la estructura requerida por PyVista[cite: 8].
+* **PyQt5:** Framework principal para la creación de la interfaz gráfica de usuario y gestión de eventos.
+* **PyVista & PyVistaQt:** Motor de renderizado 3D basado en VTK, altamente optimizado para análisis espacial e integración en interfaces Qt.
+* **IfcOpenShell:** Librería principal encargada de parsear el archivo IFC y convertir los elementos paramétricos en datos geométricos puros.
+* **NumPy:** Procesamiento rápido de matrices para reconstruir y adaptar los vértices y caras a la estructura requerida por PyVista.
 
 ## ⚙️ Instalación y Uso
 
