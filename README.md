@@ -1,9 +1,15 @@
 # Visor IFC Ligero (PyQt5 + PyVista) 🏗️👀
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![PyQt5](https://img.shields.io/badge/GUI-PyQt5-green.svg)
-![PyVista](https://img.shields.io/badge/3D-PyVista-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=flat-square)
+![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=flat-square)
+![Sector](https://img.shields.io/badge/Sector-ConTech%20%7C%20AECO-E65100?logo=construct3&style=flat-square)
+![BIM](https://img.shields.io/badge/BIM-IFC%20%2F%20openBIM-009688?style=flat-square)
+![Maker](https://img.shields.io/badge/Maker-Software-red?logo=makerbot&style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware---grey?style=flat-square)
+![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Stars](https://img.shields.io/github/stars/jmcaamanog/visor-ifc-pyvista-COATAC?style=flat-square&color=yellow&logo=github)
+![License](https://img.shields.io/github/license/jmcaamanog/visor-ifc-pyvista-COATAC?style=flat-square&color=green)
 
 (Arquitecto Técnico_JMC) Visor BIM ultraligero construido con PyQt5 y PyVista. Carga modelos IFC, extrae metadatos de proyecto y renderiza geometría 3D de alto rendimiento con opciones para capturas de pantalla y temas de fondo.
 
